@@ -1,0 +1,36 @@
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
+C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll
