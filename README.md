@@ -3,7 +3,7 @@
 
 ## Follow below steps to run the project:
 - **Step-1** : First of all run the SQL file
-- **Step-2** : Update your connection string into app setting
+- **Step-2** : Update your connection string into app setting which is in DesignPatternPracticals
 
 
 
