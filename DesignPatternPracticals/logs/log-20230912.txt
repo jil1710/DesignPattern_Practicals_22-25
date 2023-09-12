@@ -1,0 +1,210 @@
+2023-09-12 09:23:13.377 +05:30 [INF] User profile is available. Using 'C:\Users\jil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-09-12 09:23:13.439 +05:30 [INF] Creating key {d32bc948-0fea-4c31-8aac-e8570dd555ed} with creation date 2023-09-12 03:53:13Z, activation date 2023-09-12 09:30:43Z, and expiration date 2023-12-11 03:53:13Z.
+2023-09-12 09:23:13.450 +05:30 [INF] Writing data to file 'C:\Users\jil\AppData\Local\ASP.NET\DataProtection-Keys\key-d32bc948-0fea-4c31-8aac-e8570dd555ed.xml'.
+2023-09-12 09:23:13.629 +05:30 [INF] Now listening on: https://localhost:7184
+2023-09-12 09:23:13.630 +05:30 [INF] Now listening on: http://localhost:5102
+2023-09-12 09:23:13.631 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 09:23:13.633 +05:30 [INF] Hosting environment: Development
+2023-09-12 09:23:13.633 +05:30 [INF] Content root path: C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals
+2023-09-12 09:23:14.713 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger - -
+2023-09-12 09:23:14.771 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger - - - 301 0 - 59.1498ms
+2023-09-12 09:23:14.795 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/index.html - -
+2023-09-12 09:23:15.012 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/swagger-ui.css - -
+2023-09-12 09:23:15.025 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/index.html - - - 200 - text/html;charset=utf-8 229.2573ms
+2023-09-12 09:23:15.036 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/swagger-ui-bundle.js - -
+2023-09-12 09:23:15.037 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/swagger-ui-standalone-preset.js - -
+2023-09-12 09:23:15.036 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_vs/browserLink - -
+2023-09-12 09:23:15.044 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - -
+2023-09-12 09:23:15.066 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 22.2490ms
+2023-09-12 09:23:15.077 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-09-12 09:23:15.080 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-09-12 09:23:15.082 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/swagger-ui.css - - - 200 144929 text/css 68.8750ms
+2023-09-12 09:23:15.089 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 51.7617ms
+2023-09-12 09:23:15.109 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-09-12 09:23:15.111 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 74.8561ms
+2023-09-12 09:23:15.174 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 137.1198ms
+2023-09-12 09:23:15.270 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - -
+2023-09-12 09:23:15.417 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 147.0248ms
+2023-09-12 09:23:20.853 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v2.1/swagger.json - -
+2023-09-12 09:23:20.855 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v2.1/swagger.json - - - 200 - application/json;charset=utf-8 2.4485ms
+2023-09-12 09:23:40.326 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/AbstractFactoryPattern?id=2&hours=3 - -
+2023-09-12 09:23:40.337 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.AbstractFactoryPatternController.GetEmployeeOvertimePay (DesignPatternPracticals)'
+2023-09-12 09:23:40.351 +05:30 [INF] Route matched with {action = "GetEmployeeOvertimePay", controller = "AbstractFactoryPattern"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetEmployeeOvertimePay(Int32, Int32) on controller DesignPatternPracticals.Controllers.AbstractFactoryPatternController (DesignPatternPracticals).
+2023-09-12 09:23:40.596 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`3[[System.Object, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2023-09-12 09:23:40.611 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.AbstractFactoryPatternController.GetEmployeeOvertimePay (DesignPatternPracticals) in 254.7605ms
+2023-09-12 09:23:40.614 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.AbstractFactoryPatternController.GetEmployeeOvertimePay (DesignPatternPracticals)'
+2023-09-12 09:23:40.616 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/AbstractFactoryPattern?id=2&hours=3 - - - 200 - application/json;+charset=utf-8;+x-api-version=2.1 290.2225ms
+2023-09-12 09:23:47.968 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v3/swagger.json - -
+2023-09-12 09:23:47.974 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v3/swagger.json - - - 200 - application/json;charset=utf-8 5.8954ms
+2023-09-12 09:24:14.490 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7184/api/RepositoryPatternPractical/Create application/json;+x-api-version=3.0 152
+2023-09-12 09:24:14.501 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals)'
+2023-09-12 09:24:14.504 +05:30 [INF] Route matched with {action = "Create", controller = "RepositoryPatternPractical"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create(RepositoryPattern.Models.EmployeeR) on controller DesignPatternPracticals.Controllers.RepositoryPatternPractical (DesignPatternPracticals).
+2023-09-12 09:24:33.199 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2023-09-12 09:24:33.201 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals) in 18695.2016ms
+2023-09-12 09:24:33.203 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals)'
+2023-09-12 09:24:33.205 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7184/api/RepositoryPatternPractical/Create application/json;+x-api-version=3.0 152 - 200 - text/plain;+charset=utf-8;+x-api-version=3.0 18714.4612ms
+2023-09-12 09:25:04.127 +05:30 [INF] Request starting HTTP/2 PUT https://localhost:7184/api/RepositoryPatternPractical/Edit?id=56 application/json;+x-api-version=3.0 151
+2023-09-12 09:25:04.136 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Edit (DesignPatternPracticals)'
+2023-09-12 09:25:04.138 +05:30 [INF] Route matched with {action = "Edit", controller = "RepositoryPatternPractical"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Edit(Int32, RepositoryPattern.Models.EmployeeR) on controller DesignPatternPracticals.Controllers.RepositoryPatternPractical (DesignPatternPracticals).
+2023-09-12 09:25:04.145 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2023-09-12 09:25:04.146 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.RepositoryPatternPractical.Edit (DesignPatternPracticals) in 6.6889ms
+2023-09-12 09:25:04.147 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Edit (DesignPatternPracticals)'
+2023-09-12 09:25:04.148 +05:30 [INF] Request finished HTTP/2 PUT https://localhost:7184/api/RepositoryPatternPractical/Edit?id=56 application/json;+x-api-version=3.0 151 - 200 - text/plain;+charset=utf-8;+x-api-version=3.0 21.0761ms
+2023-09-12 09:25:22.887 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/RepositoryPatternPractical/Get?id=56 - -
+2023-09-12 09:25:22.889 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals)'
+2023-09-12 09:25:22.893 +05:30 [INF] Route matched with {action = "Get", controller = "RepositoryPatternPractical"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get(System.Nullable`1[System.Int32]) on controller DesignPatternPracticals.Controllers.RepositoryPatternPractical (DesignPatternPracticals).
+2023-09-12 09:25:32.353 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[RepositoryPattern.Models.EmployeeR, RepositoryPattern, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-09-12 09:25:32.359 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals) in 9464.7979ms
+2023-09-12 09:25:32.361 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals)'
+2023-09-12 09:25:32.363 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/RepositoryPatternPractical/Get?id=56 - - - 200 - application/json;+charset=utf-8;+x-api-version=3.0 9475.6344ms
+2023-09-12 09:25:46.375 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v4/swagger.json - -
+2023-09-12 09:25:46.385 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v4/swagger.json - - - 200 - application/json;charset=utf-8 9.9194ms
+2023-09-12 09:26:01.066 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/MediatorPatternDemo/GetEmployee/56 - -
+2023-09-12 09:26:01.069 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.MediatorPatternDemoController.GetEmployee (DesignPatternPracticals)'
+2023-09-12 09:26:01.077 +05:30 [INF] Route matched with {action = "GetEmployee", controller = "MediatorPatternDemo"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetEmployee(Int32) on controller DesignPatternPracticals.Controllers.MediatorPatternDemoController (DesignPatternPracticals).
+2023-09-12 09:26:01.230 +05:30 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2023-09-12 09:26:01.232 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.MediatorPatternDemoController.GetEmployee (DesignPatternPracticals) in 152.1377ms
+2023-09-12 09:26:01.234 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.MediatorPatternDemoController.GetEmployee (DesignPatternPracticals)'
+2023-09-12 09:26:01.235 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/MediatorPatternDemo/GetEmployee/56 - - - 400 - application/json;+charset=utf-8;+x-api-version=4.0 169.0134ms
+2023-09-12 09:33:10.935 +05:30 [INF] User profile is available. Using 'C:\Users\jil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-09-12 09:33:11.098 +05:30 [INF] Now listening on: https://localhost:7184
+2023-09-12 09:33:11.099 +05:30 [INF] Now listening on: http://localhost:5102
+2023-09-12 09:33:11.101 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 09:33:11.101 +05:30 [INF] Hosting environment: Development
+2023-09-12 09:33:11.102 +05:30 [INF] Content root path: C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals
+2023-09-12 09:33:11.620 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/index.html - -
+2023-09-12 09:33:11.871 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/index.html - - - 200 - text/html;charset=utf-8 253.0080ms
+2023-09-12 09:33:11.891 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - -
+2023-09-12 09:33:11.891 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_vs/browserLink - -
+2023-09-12 09:33:11.940 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 48.8786ms
+2023-09-12 09:33:11.973 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 81.7036ms
+2023-09-12 09:33:12.086 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - -
+2023-09-12 09:33:12.212 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 125.4586ms
+2023-09-12 09:33:16.522 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v4/swagger.json - -
+2023-09-12 09:33:16.529 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v4/swagger.json - - - 200 - application/json;charset=utf-8 6.2505ms
+2023-09-12 09:33:29.100 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/MediatorPatternDemo/GetEmployee/2 - -
+2023-09-12 09:33:29.114 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.MediatorPatternDemoController.GetEmployee (DesignPatternPracticals)'
+2023-09-12 09:33:29.133 +05:30 [INF] Route matched with {action = "GetEmployee", controller = "MediatorPatternDemo"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetEmployee(Int32) on controller DesignPatternPracticals.Controllers.MediatorPatternDemoController (DesignPatternPracticals).
+2023-09-12 09:33:29.459 +05:30 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2023-09-12 09:33:29.470 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.MediatorPatternDemoController.GetEmployee (DesignPatternPracticals) in 332.542ms
+2023-09-12 09:33:29.474 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.MediatorPatternDemoController.GetEmployee (DesignPatternPracticals)'
+2023-09-12 09:33:29.475 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/MediatorPatternDemo/GetEmployee/2 - - - 400 - application/json;+charset=utf-8;+x-api-version=4.0 374.9038ms
+2023-09-12 09:34:05.590 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/MediatorPatternDemo/GetEmployee/2 - -
+2023-09-12 09:34:05.596 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.MediatorPatternDemoController.GetEmployee (DesignPatternPracticals)'
+2023-09-12 09:34:05.598 +05:30 [INF] Route matched with {action = "GetEmployee", controller = "MediatorPatternDemo"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetEmployee(Int32) on controller DesignPatternPracticals.Controllers.MediatorPatternDemoController (DesignPatternPracticals).
+2023-09-12 09:38:15.274 +05:30 [INF] User profile is available. Using 'C:\Users\jil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-09-12 09:38:15.564 +05:30 [INF] Now listening on: https://localhost:7184
+2023-09-12 09:38:15.565 +05:30 [INF] Now listening on: http://localhost:5102
+2023-09-12 09:38:15.568 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 09:38:15.569 +05:30 [INF] Hosting environment: Development
+2023-09-12 09:38:15.570 +05:30 [INF] Content root path: C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals
+2023-09-12 09:38:15.952 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/index.html - -
+2023-09-12 09:38:16.164 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/index.html - - - 200 - text/html;charset=utf-8 212.8158ms
+2023-09-12 09:38:16.182 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_vs/browserLink - -
+2023-09-12 09:38:16.182 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - -
+2023-09-12 09:38:16.203 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 20.7740ms
+2023-09-12 09:38:16.240 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 57.7406ms
+2023-09-12 09:38:16.289 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - -
+2023-09-12 09:38:16.438 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 148.3306ms
+2023-09-12 09:38:20.534 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v4/swagger.json - -
+2023-09-12 09:38:20.544 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v4/swagger.json - - - 200 - application/json;charset=utf-8 9.5318ms
+2023-09-12 09:38:34.347 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/MediatorPatternDemo/GetEmployee/56 - -
+2023-09-12 09:38:34.359 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.MediatorPatternDemoController.GetEmployee (DesignPatternPracticals)'
+2023-09-12 09:38:34.377 +05:30 [INF] Route matched with {action = "GetEmployee", controller = "MediatorPatternDemo"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetEmployee(Int32) on controller DesignPatternPracticals.Controllers.MediatorPatternDemoController (DesignPatternPracticals).
+2023-09-12 09:38:37.866 +05:30 [INF] Executing OkObjectResult, writing value of type 'MediatorComponent.Models.Employee'.
+2023-09-12 09:38:37.886 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.MediatorPatternDemoController.GetEmployee (DesignPatternPracticals) in 3503.7846ms
+2023-09-12 09:38:37.890 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.MediatorPatternDemoController.GetEmployee (DesignPatternPracticals)'
+2023-09-12 09:38:37.891 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/MediatorPatternDemo/GetEmployee/56 - - - 200 - application/json;+charset=utf-8;+x-api-version=4.0 3544.0405ms
+2023-09-12 09:38:58.904 +05:30 [INF] Request starting HTTP/2 DELETE https://localhost:7184/api/MediatorPatternDemo/DeleteEmployee?id=56 - -
+2023-09-12 09:38:58.909 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.MediatorPatternDemoController.DeleteEmployee (DesignPatternPracticals)'
+2023-09-12 09:38:58.914 +05:30 [INF] Route matched with {action = "DeleteEmployee", controller = "MediatorPatternDemo"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] DeleteEmployee(Int32) on controller DesignPatternPracticals.Controllers.MediatorPatternDemoController (DesignPatternPracticals).
+2023-09-12 09:38:58.938 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2023-09-12 09:38:58.941 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.MediatorPatternDemoController.DeleteEmployee (DesignPatternPracticals) in 24.9494ms
+2023-09-12 09:38:58.943 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.MediatorPatternDemoController.DeleteEmployee (DesignPatternPracticals)'
+2023-09-12 09:38:58.944 +05:30 [INF] Request finished HTTP/2 DELETE https://localhost:7184/api/MediatorPatternDemo/DeleteEmployee?id=56 - - - 200 - text/plain;+charset=utf-8;+x-api-version=4.0 40.6659ms
+2023-09-12 09:39:00.303 +05:30 [INF] Request starting HTTP/2 DELETE https://localhost:7184/api/MediatorPatternDemo/DeleteEmployee?id=56 - -
+2023-09-12 09:39:00.305 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.MediatorPatternDemoController.DeleteEmployee (DesignPatternPracticals)'
+2023-09-12 09:39:00.307 +05:30 [INF] Route matched with {action = "DeleteEmployee", controller = "MediatorPatternDemo"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] DeleteEmployee(Int32) on controller DesignPatternPracticals.Controllers.MediatorPatternDemoController (DesignPatternPracticals).
+2023-09-12 09:39:00.311 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2023-09-12 09:39:00.313 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.MediatorPatternDemoController.DeleteEmployee (DesignPatternPracticals) in 3.8092ms
+2023-09-12 09:39:00.314 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.MediatorPatternDemoController.DeleteEmployee (DesignPatternPracticals)'
+2023-09-12 09:39:00.314 +05:30 [INF] Request finished HTTP/2 DELETE https://localhost:7184/api/MediatorPatternDemo/DeleteEmployee?id=56 - - - 400 - text/plain;+charset=utf-8;+x-api-version=4.0 11.4705ms
+2023-09-12 09:39:05.545 +05:30 [INF] Request starting HTTP/2 DELETE https://localhost:7184/api/MediatorPatternDemo/DeleteEmployee?id=56 - -
+2023-09-12 09:39:05.546 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.MediatorPatternDemoController.DeleteEmployee (DesignPatternPracticals)'
+2023-09-12 09:39:05.548 +05:30 [INF] Route matched with {action = "DeleteEmployee", controller = "MediatorPatternDemo"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] DeleteEmployee(Int32) on controller DesignPatternPracticals.Controllers.MediatorPatternDemoController (DesignPatternPracticals).
+2023-09-12 09:39:05.553 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2023-09-12 09:39:05.554 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.MediatorPatternDemoController.DeleteEmployee (DesignPatternPracticals) in 3.5345ms
+2023-09-12 09:39:05.556 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.MediatorPatternDemoController.DeleteEmployee (DesignPatternPracticals)'
+2023-09-12 09:39:05.558 +05:30 [INF] Request finished HTTP/2 DELETE https://localhost:7184/api/MediatorPatternDemo/DeleteEmployee?id=56 - - - 400 - text/plain;+charset=utf-8;+x-api-version=4.0 13.3438ms
+2023-09-12 09:39:07.645 +05:30 [INF] Request starting HTTP/2 DELETE https://localhost:7184/api/MediatorPatternDemo/DeleteEmployee?id=56 - -
+2023-09-12 09:39:07.647 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.MediatorPatternDemoController.DeleteEmployee (DesignPatternPracticals)'
+2023-09-12 09:39:07.650 +05:30 [INF] Route matched with {action = "DeleteEmployee", controller = "MediatorPatternDemo"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] DeleteEmployee(Int32) on controller DesignPatternPracticals.Controllers.MediatorPatternDemoController (DesignPatternPracticals).
+2023-09-12 09:39:07.656 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2023-09-12 09:39:07.658 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.MediatorPatternDemoController.DeleteEmployee (DesignPatternPracticals) in 5.6342ms
+2023-09-12 09:39:07.659 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.MediatorPatternDemoController.DeleteEmployee (DesignPatternPracticals)'
+2023-09-12 09:39:07.660 +05:30 [INF] Request finished HTTP/2 DELETE https://localhost:7184/api/MediatorPatternDemo/DeleteEmployee?id=56 - - - 400 - text/plain;+charset=utf-8;+x-api-version=4.0 15.4859ms
+2023-09-12 09:39:12.886 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/MediatorPatternDemo/GetEmployee/56 - -
+2023-09-12 09:39:12.888 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.MediatorPatternDemoController.GetEmployee (DesignPatternPracticals)'
+2023-09-12 09:39:12.890 +05:30 [INF] Route matched with {action = "GetEmployee", controller = "MediatorPatternDemo"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetEmployee(Int32) on controller DesignPatternPracticals.Controllers.MediatorPatternDemoController (DesignPatternPracticals).
+2023-09-12 09:39:15.776 +05:30 [INF] Executing BadRequestObjectResult, writing value of type '<>f__AnonymousType1`1[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2023-09-12 09:39:15.780 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.MediatorPatternDemoController.GetEmployee (DesignPatternPracticals) in 2887.5131ms
+2023-09-12 09:39:15.782 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.MediatorPatternDemoController.GetEmployee (DesignPatternPracticals)'
+2023-09-12 09:39:15.783 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/MediatorPatternDemo/GetEmployee/56 - - - 400 - application/json;+charset=utf-8;+x-api-version=4.0 2896.8297ms
+2023-09-12 09:39:29.416 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v5/swagger.json - -
+2023-09-12 09:39:29.425 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v5/swagger.json - - - 200 - application/json;charset=utf-8 8.5846ms
+2023-09-12 09:39:39.037 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/CQRSPattern/GetAll - -
+2023-09-12 09:39:39.039 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.CQRSPatternController.GetAll (DesignPatternPracticals)'
+2023-09-12 09:39:39.043 +05:30 [INF] Route matched with {action = "GetAll", controller = "CQRSPattern"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAll() on controller DesignPatternPracticals.Controllers.CQRSPatternController (DesignPatternPracticals).
+2023-09-12 09:39:39.166 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.CQRSPatternController.GetAll (DesignPatternPracticals) in 121.3571ms
+2023-09-12 09:39:39.206 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.CQRSPatternController.GetAll (DesignPatternPracticals)'
+2023-09-12 09:39:39.287 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidCastException: Unable to cast object of type 'System.Int32' to type 'System.Decimal'.
+   at CQRSPattern.Repository.EmployeeQueryRepository.GetAll() in C:\Users\jil\Downloads\DesignPatterns-master\CQRSPattern\Repository\EmployeeQueryRepository.cs:line 30
+   at DesignPatternPracticals.Controllers.CQRSPatternController.GetAll() in C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals\Controllers\CQRSPatternController.cs:line 26
+   at lambda_method24(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-09-12 09:39:39.323 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/CQRSPattern/GetAll - - - 500 - text/plain;+charset=utf-8;+x-api-version=5.0 286.6587ms
+2023-09-12 09:45:28.854 +05:30 [INF] User profile is available. Using 'C:\Users\jil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-09-12 09:45:29.014 +05:30 [INF] Now listening on: https://localhost:7184
+2023-09-12 09:45:29.016 +05:30 [INF] Now listening on: http://localhost:5102
+2023-09-12 09:45:29.017 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-12 09:45:29.018 +05:30 [INF] Hosting environment: Development
+2023-09-12 09:45:29.018 +05:30 [INF] Content root path: C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals
+2023-09-12 09:45:29.427 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/index.html - -
+2023-09-12 09:45:29.632 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/index.html - - - 200 - text/html;charset=utf-8 205.5316ms
+2023-09-12 09:45:29.654 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - -
+2023-09-12 09:45:29.654 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_vs/browserLink - -
+2023-09-12 09:45:29.673 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 18.0575ms
+2023-09-12 09:45:29.705 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 50.7065ms
+2023-09-12 09:45:29.755 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - -
+2023-09-12 09:45:29.894 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 138.5796ms
+2023-09-12 09:45:33.754 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v5/swagger.json - -
+2023-09-12 09:45:33.761 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v5/swagger.json - - - 200 - application/json;charset=utf-8 6.9290ms
+2023-09-12 09:45:42.393 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/CQRSPattern/GetAll - -
+2023-09-12 09:45:42.404 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.CQRSPatternController.GetAll (DesignPatternPracticals)'
+2023-09-12 09:45:42.416 +05:30 [INF] Route matched with {action = "GetAll", controller = "CQRSPattern"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAll() on controller DesignPatternPracticals.Controllers.CQRSPatternController (DesignPatternPracticals).
+2023-09-12 09:45:42.562 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CQRSPattern.Models.EmployeeQueryModel, CQRSPattern, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-09-12 09:45:42.584 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.CQRSPatternController.GetAll (DesignPatternPracticals) in 162.8155ms
+2023-09-12 09:45:42.587 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.CQRSPatternController.GetAll (DesignPatternPracticals)'
+2023-09-12 09:45:42.588 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/CQRSPattern/GetAll - - - 200 - application/json;+charset=utf-8;+x-api-version=5.0 194.5705ms

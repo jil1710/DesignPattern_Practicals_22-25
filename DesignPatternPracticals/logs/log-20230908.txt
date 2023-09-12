@@ -1,0 +1,1108 @@
+2023-09-08 09:46:20.278 +05:30 [INF] User profile is available. Using 'C:\Users\jil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-09-08 09:46:20.507 +05:30 [INF] Now listening on: https://localhost:7184
+2023-09-08 09:46:20.508 +05:30 [INF] Now listening on: http://localhost:5102
+2023-09-08 09:46:20.510 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-08 09:46:20.511 +05:30 [INF] Hosting environment: Development
+2023-09-08 09:46:20.512 +05:30 [INF] Content root path: C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals
+2023-09-08 09:46:21.592 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger - -
+2023-09-08 09:46:21.647 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger - - - 301 0 - 53.0876ms
+2023-09-08 09:46:21.657 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/index.html - -
+2023-09-08 09:46:21.882 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - -
+2023-09-08 09:46:21.883 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/swagger-ui.css - -
+2023-09-08 09:46:21.882 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/swagger-ui-standalone-preset.js - -
+2023-09-08 09:46:21.883 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/swagger-ui-bundle.js - -
+2023-09-08 09:46:21.895 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/index.html - - - 200 - text/html;charset=utf-8 237.6311ms
+2023-09-08 09:46:21.914 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_vs/browserLink - -
+2023-09-08 09:46:21.917 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 34.3795ms
+2023-09-08 09:46:21.962 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-09-08 09:46:21.962 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-09-08 09:46:21.966 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 83.4296ms
+2023-09-08 09:46:21.972 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/swagger-ui.css - - - 200 144929 text/css 89.0797ms
+2023-09-08 09:46:21.982 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-09-08 09:46:21.984 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 101.4028ms
+2023-09-08 09:46:22.039 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 125.2604ms
+2023-09-08 09:46:22.140 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - -
+2023-09-08 09:46:22.161 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/favicon-32x32.png - -
+2023-09-08 09:46:22.163 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2023-09-08 09:46:22.166 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/favicon-32x32.png - - - 200 628 image/png 5.3943ms
+2023-09-08 09:46:22.295 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 154.8046ms
+2023-09-08 09:46:51.989 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v2/swagger.json - -
+2023-09-08 09:46:51.993 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v2/swagger.json - - - 200 - application/json;charset=utf-8 4.7107ms
+2023-09-08 09:46:56.169 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v2.1/swagger.json - -
+2023-09-08 09:46:56.174 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v2.1/swagger.json - - - 200 - application/json;charset=utf-8 5.4524ms
+2023-09-08 09:46:59.577 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v3/swagger.json - -
+2023-09-08 09:46:59.587 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v3/swagger.json - - - 200 - application/json;charset=utf-8 10.7690ms
+2023-09-08 09:47:04.775 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v4/swagger.json - -
+2023-09-08 09:47:04.783 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v4/swagger.json - - - 200 - application/json;charset=utf-8 8.2828ms
+2023-09-08 09:47:10.406 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v5/swagger.json - -
+2023-09-08 09:47:10.411 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v5/swagger.json - - - 200 - application/json;charset=utf-8 5.8061ms
+2023-09-08 09:51:09.110 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - -
+2023-09-08 09:51:09.120 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 10.3803ms
+2023-09-08 09:51:31.353 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7184/api/EmployeeSingleton/Create application/json;+x-api-version=1.0 155
+2023-09-08 09:51:31.368 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals)'
+2023-09-08 09:51:31.384 +05:30 [INF] Route matched with {action = "Create", controller = "EmployeeSingleton"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create(DataAccessLayer.Models.Employee) on controller DesignPatternPracticals.Controllers.EmployeeSingleton (DesignPatternPracticals).
+2023-09-08 09:51:48.338 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals) in 16948.5841ms
+2023-09-08 09:51:48.381 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals)'
+2023-09-08 09:51:48.458 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (2): The system cannot find the file specified.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at DataAccessLayer.Services.DataAccessService.CreateEmployee(Employee employee) in C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\Services\DataAccessService.cs:line 54
+   at DesignPatternPracticals.Controllers.EmployeeSingleton.Create(Employee employee) in C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals\Controllers\EmployeeSingleton.cs:line 35
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:2,State:0,Class:20
+2023-09-08 09:51:48.509 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7184/api/EmployeeSingleton/Create application/json;+x-api-version=1.0 155 - 500 - text/plain;+charset=utf-8;+x-api-version=1.0 17155.5726ms
+2023-09-08 10:31:15.192 +05:30 [INF] User profile is available. Using 'C:\Users\jil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-09-08 10:31:15.404 +05:30 [INF] Now listening on: https://localhost:7184
+2023-09-08 10:31:15.405 +05:30 [INF] Now listening on: http://localhost:5102
+2023-09-08 10:31:15.406 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-08 10:31:15.407 +05:30 [INF] Hosting environment: Development
+2023-09-08 10:31:15.408 +05:30 [INF] Content root path: C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals
+2023-09-08 10:31:16.018 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/index.html - -
+2023-09-08 10:31:16.268 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/index.html - - - 200 - text/html;charset=utf-8 251.4855ms
+2023-09-08 10:31:16.289 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_vs/browserLink - -
+2023-09-08 10:31:16.289 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - -
+2023-09-08 10:31:16.314 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 23.9866ms
+2023-09-08 10:31:16.358 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 69.0795ms
+2023-09-08 10:31:16.531 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - -
+2023-09-08 10:31:16.726 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 195.2056ms
+2023-09-08 10:32:56.637 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7184/api/EmployeeSingleton/Create application/json;+x-api-version=1.0 152
+2023-09-08 10:32:56.655 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals)'
+2023-09-08 10:32:56.669 +05:30 [INF] Route matched with {action = "Create", controller = "EmployeeSingleton"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create(DataAccessLayer.Models.Employee) on controller DesignPatternPracticals.Controllers.EmployeeSingleton (DesignPatternPracticals).
+2023-09-08 10:32:56.818 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2023-09-08 10:32:56.827 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals) in 153.82ms
+2023-09-08 10:32:56.831 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals)'
+2023-09-08 10:32:56.832 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7184/api/EmployeeSingleton/Create application/json;+x-api-version=1.0 152 - 400 - application/problem+json;+charset=utf-8 195.4822ms
+2023-09-08 10:36:43.796 +05:30 [INF] User profile is available. Using 'C:\Users\jil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-09-08 10:36:43.959 +05:30 [INF] Now listening on: https://localhost:7184
+2023-09-08 10:36:43.960 +05:30 [INF] Now listening on: http://localhost:5102
+2023-09-08 10:36:43.962 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-08 10:36:43.963 +05:30 [INF] Hosting environment: Development
+2023-09-08 10:36:43.963 +05:30 [INF] Content root path: C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals
+2023-09-08 10:36:44.779 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/index.html - -
+2023-09-08 10:36:44.989 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - -
+2023-09-08 10:36:44.993 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/index.html - - - 200 - text/html;charset=utf-8 214.3245ms
+2023-09-08 10:36:45.003 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 13.5944ms
+2023-09-08 10:36:45.009 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_vs/browserLink - -
+2023-09-08 10:36:45.074 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 65.0553ms
+2023-09-08 10:36:45.143 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - -
+2023-09-08 10:36:45.288 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 144.8548ms
+2023-09-08 10:37:15.773 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7184/api/EmployeeSingleton/Create application/json;+x-api-version=1.0 151
+2023-09-08 10:37:15.790 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals)'
+2023-09-08 10:37:15.808 +05:30 [INF] Route matched with {action = "Create", controller = "EmployeeSingleton"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create(DataAccessLayer.Models.Employee) on controller DesignPatternPracticals.Controllers.EmployeeSingleton (DesignPatternPracticals).
+2023-09-08 10:37:16.014 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals) in 201.4821ms
+2023-09-08 10:37:16.062 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals)'
+2023-09-08 10:37:16.143 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentException: Keyword not supported: 'trust server certificate'.
+   at System.Data.Common.DbConnectionOptions.ParseInternal(Dictionary`2 parsetable, String connectionString, Boolean buildChain, Dictionary`2 synonyms, Boolean firstKey)
+   at System.Data.Common.DbConnectionOptions..ctor(String connectionString, Dictionary`2 synonyms)
+   at System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   at System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   at System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   at System.Data.SqlClient.SqlConnection..ctor(String connectionString)
+   at DataAccessLayer.Services.DataAccessService.CreateEmployee(Employee employee) in C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\Services\DataAccessService.cs:line 52
+   at DesignPatternPracticals.Controllers.EmployeeSingleton.Create(Employee employee) in C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals\Controllers\EmployeeSingleton.cs:line 35
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-09-08 10:37:16.186 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7184/api/EmployeeSingleton/Create application/json;+x-api-version=1.0 151 - 500 - text/plain;+charset=utf-8;+x-api-version=1.0 413.3335ms
+2023-09-08 10:38:18.110 +05:30 [INF] User profile is available. Using 'C:\Users\jil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-09-08 10:38:18.272 +05:30 [INF] Now listening on: https://localhost:7184
+2023-09-08 10:38:18.273 +05:30 [INF] Now listening on: http://localhost:5102
+2023-09-08 10:38:18.275 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-08 10:38:18.275 +05:30 [INF] Hosting environment: Development
+2023-09-08 10:38:18.276 +05:30 [INF] Content root path: C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals
+2023-09-08 10:38:19.021 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/index.html - -
+2023-09-08 10:38:19.231 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - -
+2023-09-08 10:38:19.235 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/index.html - - - 200 - text/html;charset=utf-8 213.3061ms
+2023-09-08 10:38:19.242 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 11.5944ms
+2023-09-08 10:38:19.247 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_vs/browserLink - -
+2023-09-08 10:38:19.292 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 44.5394ms
+2023-09-08 10:38:19.360 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - -
+2023-09-08 10:38:19.494 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 133.9122ms
+2023-09-08 10:38:46.792 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7184/api/EmployeeSingleton/Create application/json;+x-api-version=1.0 153
+2023-09-08 10:38:46.805 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals)'
+2023-09-08 10:38:46.818 +05:30 [INF] Route matched with {action = "Create", controller = "EmployeeSingleton"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create(DataAccessLayer.Models.Employee) on controller DesignPatternPracticals.Controllers.EmployeeSingleton (DesignPatternPracticals).
+2023-09-08 10:38:47.191 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals) in 368.2206ms
+2023-09-08 10:38:47.232 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals)'
+2023-09-08 10:38:47.310 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.Data.SqlClient.SqlException (0x80131904): Column name or number of supplied values does not match table definition.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DataAccessLayer.Services.DataAccessService.CreateEmployee(Employee employee) in C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\Services\DataAccessService.cs:line 77
+   at DesignPatternPracticals.Controllers.EmployeeSingleton.Create(Employee employee) in C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals\Controllers\EmployeeSingleton.cs:line 35
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+ClientConnectionId:2964ce09-e4f5-469c-aeff-29cd4cea8e98
+Error Number:213,State:1,Class:16
+2023-09-08 10:38:47.350 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7184/api/EmployeeSingleton/Create application/json;+x-api-version=1.0 153 - 500 - text/plain;+charset=utf-8;+x-api-version=1.0 559.0209ms
+2023-09-08 10:40:50.119 +05:30 [INF] User profile is available. Using 'C:\Users\jil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-09-08 10:40:50.284 +05:30 [INF] Now listening on: https://localhost:7184
+2023-09-08 10:40:50.285 +05:30 [INF] Now listening on: http://localhost:5102
+2023-09-08 10:40:50.287 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-08 10:40:50.287 +05:30 [INF] Hosting environment: Development
+2023-09-08 10:40:50.288 +05:30 [INF] Content root path: C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals
+2023-09-08 10:40:50.949 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/index.html - -
+2023-09-08 10:40:51.153 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - -
+2023-09-08 10:40:51.154 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/index.html - - - 200 - text/html;charset=utf-8 204.7100ms
+2023-09-08 10:40:51.164 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 10.6835ms
+2023-09-08 10:40:51.170 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_vs/browserLink - -
+2023-09-08 10:40:51.235 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 64.8945ms
+2023-09-08 10:40:51.294 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - -
+2023-09-08 10:40:51.421 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 127.2701ms
+2023-09-08 10:41:14.659 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7184/api/EmployeeSingleton/Create application/json;+x-api-version=1.0 151
+2023-09-08 10:41:14.678 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals)'
+2023-09-08 10:41:14.693 +05:30 [INF] Route matched with {action = "Create", controller = "EmployeeSingleton"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create(DataAccessLayer.Models.Employee) on controller DesignPatternPracticals.Controllers.EmployeeSingleton (DesignPatternPracticals).
+2023-09-08 10:41:15.070 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals) in 371.4493ms
+2023-09-08 10:41:15.112 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals)'
+2023-09-08 10:41:15.190 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.Data.SqlClient.SqlException (0x80131904): Column name or number of supplied values does not match table definition.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DataAccessLayer.Services.DataAccessService.CreateEmployee(Employee employee) in C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\Services\DataAccessService.cs:line 77
+   at DesignPatternPracticals.Controllers.EmployeeSingleton.Create(Employee employee) in C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals\Controllers\EmployeeSingleton.cs:line 35
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+ClientConnectionId:81394df6-8f02-40d5-8815-00f96552c7ec
+Error Number:213,State:1,Class:16
+2023-09-08 10:41:15.232 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7184/api/EmployeeSingleton/Create application/json;+x-api-version=1.0 151 - 500 - text/plain;+charset=utf-8;+x-api-version=1.0 573.1455ms
+2023-09-08 10:43:56.530 +05:30 [INF] User profile is available. Using 'C:\Users\jil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-09-08 10:43:56.695 +05:30 [INF] Now listening on: https://localhost:7184
+2023-09-08 10:43:56.696 +05:30 [INF] Now listening on: http://localhost:5102
+2023-09-08 10:43:56.698 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-08 10:43:56.698 +05:30 [INF] Hosting environment: Development
+2023-09-08 10:43:56.699 +05:30 [INF] Content root path: C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals
+2023-09-08 10:43:57.187 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/index.html - -
+2023-09-08 10:43:57.402 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/index.html - - - 200 - text/html;charset=utf-8 218.3385ms
+2023-09-08 10:43:57.418 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_vs/browserLink - -
+2023-09-08 10:43:57.418 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - -
+2023-09-08 10:43:57.431 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 13.3576ms
+2023-09-08 10:43:57.475 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 57.1436ms
+2023-09-08 10:43:57.526 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - -
+2023-09-08 10:43:57.654 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 128.1801ms
+2023-09-08 10:44:27.780 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7184/api/EmployeeSingleton/Create application/json;+x-api-version=1.0 151
+2023-09-08 10:44:27.793 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals)'
+2023-09-08 10:44:27.812 +05:30 [INF] Route matched with {action = "Create", controller = "EmployeeSingleton"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create(DataAccessLayer.Models.Employee) on controller DesignPatternPracticals.Controllers.EmployeeSingleton (DesignPatternPracticals).
+2023-09-08 10:44:28.290 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals) in 473.1563ms
+2023-09-08 10:44:28.327 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals)'
+2023-09-08 10:44:28.416 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.Data.SqlClient.SqlException (0x80131904): Conversion failed when converting the varchar value 'user@example.com' to data type bit.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at DataAccessLayer.Services.DataAccessService.CreateEmployee(Employee employee) in C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\Services\DataAccessService.cs:line 80
+   at DesignPatternPracticals.Controllers.EmployeeSingleton.Create(Employee employee) in C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals\Controllers\EmployeeSingleton.cs:line 35
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+ClientConnectionId:8d72a695-cd22-4182-a42c-b78967147082
+Error Number:245,State:1,Class:16
+2023-09-08 10:44:28.461 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7184/api/EmployeeSingleton/Create application/json;+x-api-version=1.0 151 - 500 - text/plain;+charset=utf-8;+x-api-version=1.0 680.7666ms
+2023-09-08 10:46:05.926 +05:30 [INF] User profile is available. Using 'C:\Users\jil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-09-08 10:46:06.174 +05:30 [INF] Now listening on: https://localhost:7184
+2023-09-08 10:46:06.175 +05:30 [INF] Now listening on: http://localhost:5102
+2023-09-08 10:46:06.178 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-08 10:46:06.179 +05:30 [INF] Hosting environment: Development
+2023-09-08 10:46:06.179 +05:30 [INF] Content root path: C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals
+2023-09-08 10:46:06.971 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/index.html - -
+2023-09-08 10:46:07.227 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/index.html - - - 200 - text/html;charset=utf-8 257.6567ms
+2023-09-08 10:46:07.245 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_vs/browserLink - -
+2023-09-08 10:46:07.245 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - -
+2023-09-08 10:46:07.257 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 12.2832ms
+2023-09-08 10:46:07.304 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 58.8403ms
+2023-09-08 10:46:07.357 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - -
+2023-09-08 10:46:07.480 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 122.8040ms
+2023-09-08 10:46:16.870 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7184/api/EmployeeSingleton/Create application/json;+x-api-version=1.0 151
+2023-09-08 10:46:16.881 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals)'
+2023-09-08 10:46:16.899 +05:30 [INF] Route matched with {action = "Create", controller = "EmployeeSingleton"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create(DataAccessLayer.Models.Employee) on controller DesignPatternPracticals.Controllers.EmployeeSingleton (DesignPatternPracticals).
+2023-09-08 10:46:17.055 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2023-09-08 10:46:17.062 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals) in 157.3743ms
+2023-09-08 10:46:17.064 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Create (DesignPatternPracticals)'
+2023-09-08 10:46:17.065 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7184/api/EmployeeSingleton/Create application/json;+x-api-version=1.0 151 - 200 - text/plain;+charset=utf-8;+x-api-version=1.0 195.3225ms
+2023-09-08 10:46:50.793 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/EmployeeSingleton/Get?id=0 - -
+2023-09-08 10:46:50.799 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals)'
+2023-09-08 10:46:50.803 +05:30 [INF] Route matched with {action = "Get", controller = "EmployeeSingleton"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get(System.Nullable`1[System.Int32]) on controller DesignPatternPracticals.Controllers.EmployeeSingleton (DesignPatternPracticals).
+2023-09-08 10:46:50.980 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals) in 174.8312ms
+2023-09-08 10:46:51.021 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals)'
+2023-09-08 10:46:51.107 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidCastException: Unable to cast object of type 'System.Int32' to type 'System.Decimal'.
+   at DataAccessLayer.Services.DataAccessService.GetAllEmployees(Nullable`1 id) in C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\Services\DataAccessService.cs:line 31
+   at DesignPatternPracticals.Controllers.EmployeeSingleton.Get(Nullable`1 id) in C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals\Controllers\EmployeeSingleton.cs:line 23
+   at lambda_method5(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-09-08 10:46:51.136 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/EmployeeSingleton/Get?id=0 - - - 500 - text/plain;+charset=utf-8;+x-api-version=1.0 343.5345ms
+2023-09-08 10:48:32.114 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/EmployeeSingleton/Get?id=0 - -
+2023-09-08 10:48:32.122 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals)'
+2023-09-08 10:48:32.124 +05:30 [INF] Route matched with {action = "Get", controller = "EmployeeSingleton"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get(System.Nullable`1[System.Int32]) on controller DesignPatternPracticals.Controllers.EmployeeSingleton (DesignPatternPracticals).
+2023-09-08 10:48:32.249 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals) in 124.0976ms
+2023-09-08 10:48:32.292 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals)'
+2023-09-08 10:48:32.369 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidCastException: Unable to cast object of type 'System.Int32' to type 'System.Decimal'.
+   at DataAccessLayer.Services.DataAccessService.GetAllEmployees(Nullable`1 id) in C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\Services\DataAccessService.cs:line 31
+   at DesignPatternPracticals.Controllers.EmployeeSingleton.Get(Nullable`1 id) in C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals\Controllers\EmployeeSingleton.cs:line 23
+   at lambda_method5(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-09-08 10:48:32.379 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/EmployeeSingleton/Get?id=0 - - - 500 - text/plain;+charset=utf-8;+x-api-version=1.0 265.0354ms
+2023-09-08 10:49:50.801 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/EmployeeSingleton/Get?id=0 - -
+2023-09-08 10:49:50.809 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals)'
+2023-09-08 10:49:50.811 +05:30 [INF] Route matched with {action = "Get", controller = "EmployeeSingleton"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get(System.Nullable`1[System.Int32]) on controller DesignPatternPracticals.Controllers.EmployeeSingleton (DesignPatternPracticals).
+2023-09-08 10:50:21.942 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals) in 31129.8796ms
+2023-09-08 10:50:21.980 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals)'
+2023-09-08 10:50:22.058 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidCastException: Unable to cast object of type 'System.Int32' to type 'System.Decimal'.
+   at DataAccessLayer.Services.DataAccessService.GetAllEmployees(Nullable`1 id) in C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\Services\DataAccessService.cs:line 31
+   at DesignPatternPracticals.Controllers.EmployeeSingleton.Get(Nullable`1 id) in C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals\Controllers\EmployeeSingleton.cs:line 23
+   at lambda_method5(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-09-08 10:50:22.065 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/EmployeeSingleton/Get?id=0 - - - 500 - text/plain;+charset=utf-8;+x-api-version=1.0 31265.5375ms
+2023-09-08 10:50:28.185 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/EmployeeSingleton/Get?id=0 - -
+2023-09-08 10:50:28.186 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals)'
+2023-09-08 10:50:28.187 +05:30 [INF] Route matched with {action = "Get", controller = "EmployeeSingleton"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get(System.Nullable`1[System.Int32]) on controller DesignPatternPracticals.Controllers.EmployeeSingleton (DesignPatternPracticals).
+2023-09-08 10:51:19.981 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals) in 51792.1379ms
+2023-09-08 10:51:20.018 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals)'
+2023-09-08 10:51:20.091 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidCastException: Unable to cast object of type 'System.Int32' to type 'System.Decimal'.
+   at DataAccessLayer.Services.DataAccessService.GetAllEmployees(Nullable`1 id) in C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\Services\DataAccessService.cs:line 31
+   at DesignPatternPracticals.Controllers.EmployeeSingleton.Get(Nullable`1 id) in C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals\Controllers\EmployeeSingleton.cs:line 23
+   at lambda_method5(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-09-08 10:51:20.099 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/EmployeeSingleton/Get?id=0 - - - 500 - text/plain;+charset=utf-8;+x-api-version=1.0 51914.1270ms
+2023-09-08 10:51:25.202 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/EmployeeSingleton/Get?id=0 - -
+2023-09-08 10:51:25.204 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals)'
+2023-09-08 10:51:25.205 +05:30 [INF] Route matched with {action = "Get", controller = "EmployeeSingleton"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get(System.Nullable`1[System.Int32]) on controller DesignPatternPracticals.Controllers.EmployeeSingleton (DesignPatternPracticals).
+2023-09-08 10:51:30.524 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals) in 5317.3696ms
+2023-09-08 10:51:30.561 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals)'
+2023-09-08 10:51:30.651 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidCastException: Unable to cast object of type 'System.Int32' to type 'System.Decimal'.
+   at DataAccessLayer.Services.DataAccessService.GetAllEmployees(Nullable`1 id) in C:\Users\jil\Downloads\DesignPatterns-master\DataAccessLayer\Services\DataAccessService.cs:line 31
+   at DesignPatternPracticals.Controllers.EmployeeSingleton.Get(Nullable`1 id) in C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals\Controllers\EmployeeSingleton.cs:line 23
+   at lambda_method5(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-09-08 10:51:30.658 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/EmployeeSingleton/Get?id=0 - - - 500 - text/plain;+charset=utf-8;+x-api-version=1.0 5455.4352ms
+2023-09-08 10:51:38.751 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/EmployeeSingleton/Get?id=0 - -
+2023-09-08 10:51:38.753 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals)'
+2023-09-08 10:51:38.754 +05:30 [INF] Route matched with {action = "Get", controller = "EmployeeSingleton"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get(System.Nullable`1[System.Int32]) on controller DesignPatternPracticals.Controllers.EmployeeSingleton (DesignPatternPracticals).
+2023-09-08 10:54:15.847 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[DataAccessLayer.Models.Employee, DataAccessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-09-08 10:54:15.858 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals) in 157101.7869ms
+2023-09-08 10:54:15.861 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals)'
+2023-09-08 10:54:15.862 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/EmployeeSingleton/Get?id=0 - - - 200 - application/json;+charset=utf-8;+x-api-version=1.0 157110.0741ms
+2023-09-08 10:54:16.902 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/index.html - -
+2023-09-08 10:54:16.938 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/index.html - - - 200 - text/html;charset=utf-8 35.9263ms
+2023-09-08 10:54:17.010 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_vs/browserLink - -
+2023-09-08 10:54:17.010 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - -
+2023-09-08 10:54:17.014 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 3.3267ms
+2023-09-08 10:54:17.047 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 37.2080ms
+2023-09-08 10:54:17.098 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - -
+2023-09-08 10:54:17.112 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 13.5625ms
+2023-09-08 10:54:26.918 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/EmployeeSingleton/Get?id=0 - -
+2023-09-08 10:54:26.921 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals)'
+2023-09-08 10:54:26.925 +05:30 [INF] Route matched with {action = "Get", controller = "EmployeeSingleton"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get(System.Nullable`1[System.Int32]) on controller DesignPatternPracticals.Controllers.EmployeeSingleton (DesignPatternPracticals).
+2023-09-08 10:54:32.416 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[DataAccessLayer.Models.Employee, DataAccessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-09-08 10:54:32.421 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals) in 5494.4469ms
+2023-09-08 10:54:32.423 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals)'
+2023-09-08 10:54:32.425 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/EmployeeSingleton/Get?id=0 - - - 200 - application/json;+charset=utf-8;+x-api-version=1.0 5506.9036ms
+2023-09-08 10:55:01.499 +05:30 [INF] Request starting HTTP/2 PUT https://localhost:7184/api/EmployeeSingleton/Edit?id=0 application/json;+x-api-version=1.0 154
+2023-09-08 10:55:01.509 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Edit (DesignPatternPracticals)'
+2023-09-08 10:55:01.512 +05:30 [INF] Route matched with {action = "Edit", controller = "EmployeeSingleton"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Edit(Int32, DataAccessLayer.Models.Employee) on controller DesignPatternPracticals.Controllers.EmployeeSingleton (DesignPatternPracticals).
+2023-09-08 10:55:01.530 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2023-09-08 10:55:01.532 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.EmployeeSingleton.Edit (DesignPatternPracticals) in 17.6626ms
+2023-09-08 10:55:01.534 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Edit (DesignPatternPracticals)'
+2023-09-08 10:55:01.542 +05:30 [INF] Request finished HTTP/2 PUT https://localhost:7184/api/EmployeeSingleton/Edit?id=0 application/json;+x-api-version=1.0 154 - 200 - text/plain;+charset=utf-8;+x-api-version=1.0 43.0789ms
+2023-09-08 10:55:04.840 +05:30 [INF] Request starting HTTP/2 PUT https://localhost:7184/api/EmployeeSingleton/Edit?id=0 application/json;+x-api-version=1.0 154
+2023-09-08 10:55:04.841 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Edit (DesignPatternPracticals)'
+2023-09-08 10:55:04.843 +05:30 [INF] Route matched with {action = "Edit", controller = "EmployeeSingleton"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Edit(Int32, DataAccessLayer.Models.Employee) on controller DesignPatternPracticals.Controllers.EmployeeSingleton (DesignPatternPracticals).
+2023-09-08 10:55:04.848 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2023-09-08 10:55:04.849 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.EmployeeSingleton.Edit (DesignPatternPracticals) in 3.2755ms
+2023-09-08 10:55:04.851 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Edit (DesignPatternPracticals)'
+2023-09-08 10:55:04.852 +05:30 [INF] Request finished HTTP/2 PUT https://localhost:7184/api/EmployeeSingleton/Edit?id=0 application/json;+x-api-version=1.0 154 - 200 - text/plain;+charset=utf-8;+x-api-version=1.0 12.2937ms
+2023-09-08 10:55:15.249 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/EmployeeSingleton/Get?id=0 - -
+2023-09-08 10:55:15.251 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals)'
+2023-09-08 10:55:15.252 +05:30 [INF] Route matched with {action = "Get", controller = "EmployeeSingleton"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get(System.Nullable`1[System.Int32]) on controller DesignPatternPracticals.Controllers.EmployeeSingleton (DesignPatternPracticals).
+2023-09-08 10:55:19.907 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[DataAccessLayer.Models.Employee, DataAccessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-09-08 10:55:19.909 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals) in 4654.8956ms
+2023-09-08 10:55:19.913 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals)'
+2023-09-08 10:55:19.914 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/EmployeeSingleton/Get?id=0 - - - 200 - application/json;+charset=utf-8;+x-api-version=1.0 4664.7755ms
+2023-09-08 10:55:46.785 +05:30 [INF] Request starting HTTP/2 DELETE https://localhost:7184/api/EmployeeSingleton/Delete?id=0 - -
+2023-09-08 10:55:46.791 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Delete (DesignPatternPracticals)'
+2023-09-08 10:55:46.793 +05:30 [INF] Route matched with {action = "Delete", controller = "EmployeeSingleton"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Delete(Int32) on controller DesignPatternPracticals.Controllers.EmployeeSingleton (DesignPatternPracticals).
+2023-09-08 10:55:46.797 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2023-09-08 10:55:46.803 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.EmployeeSingleton.Delete (DesignPatternPracticals) in 8.7606ms
+2023-09-08 10:55:46.805 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Delete (DesignPatternPracticals)'
+2023-09-08 10:55:46.806 +05:30 [INF] Request finished HTTP/2 DELETE https://localhost:7184/api/EmployeeSingleton/Delete?id=0 - - - 200 - text/plain;+charset=utf-8;+x-api-version=1.0 21.8011ms
+2023-09-08 10:55:53.265 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/EmployeeSingleton/Get?id=0 - -
+2023-09-08 10:55:53.267 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals)'
+2023-09-08 10:55:53.268 +05:30 [INF] Route matched with {action = "Get", controller = "EmployeeSingleton"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get(System.Nullable`1[System.Int32]) on controller DesignPatternPracticals.Controllers.EmployeeSingleton (DesignPatternPracticals).
+2023-09-08 10:55:56.925 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[DataAccessLayer.Models.Employee, DataAccessLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-09-08 10:55:56.929 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals) in 3659.2158ms
+2023-09-08 10:55:56.930 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.EmployeeSingleton.Get (DesignPatternPracticals)'
+2023-09-08 10:55:56.932 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/EmployeeSingleton/Get?id=0 - - - 200 - application/json;+charset=utf-8;+x-api-version=1.0 3667.0533ms
+2023-09-08 10:56:11.779 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v2/swagger.json - -
+2023-09-08 10:56:11.782 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v2/swagger.json - - - 200 - application/json;charset=utf-8 3.1324ms
+2023-09-08 10:56:39.836 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/FactoryPattern?id=0&hours=5 - -
+2023-09-08 10:56:39.842 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.FactoryPatternController.GetOvertimePayment (DesignPatternPracticals)'
+2023-09-08 10:56:39.845 +05:30 [INF] Route matched with {action = "GetOvertimePayment", controller = "FactoryPattern"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetOvertimePayment(Int32, Int32) on controller DesignPatternPracticals.Controllers.FactoryPatternController (DesignPatternPracticals).
+2023-09-08 10:56:56.587 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.FactoryPatternController.GetOvertimePayment (DesignPatternPracticals) in 16739.4657ms
+2023-09-08 10:56:56.625 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.FactoryPatternController.GetOvertimePayment (DesignPatternPracticals)'
+2023-09-08 10:56:56.702 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (2): The system cannot find the file specified.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at DesignPatternPracticals.Controllers.FactoryPatternController.GetOvertimePayment(Int32 id, Int32 hours) in C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals\Controllers\FactoryPatternController.cs:line 22
+   at lambda_method13(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:2,State:0,Class:20
+2023-09-08 10:56:56.721 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/FactoryPattern?id=0&hours=5 - - - 500 - text/plain;+charset=utf-8;+x-api-version=2 16885.4222ms
+2023-09-08 11:08:49.438 +05:30 [INF] User profile is available. Using 'C:\Users\jil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-09-08 11:08:49.618 +05:30 [INF] Now listening on: https://localhost:7184
+2023-09-08 11:08:49.619 +05:30 [INF] Now listening on: http://localhost:5102
+2023-09-08 11:08:49.621 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-08 11:08:49.622 +05:30 [INF] Hosting environment: Development
+2023-09-08 11:08:49.622 +05:30 [INF] Content root path: C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals
+2023-09-08 11:08:50.271 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/index.html - -
+2023-09-08 11:08:50.504 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - -
+2023-09-08 11:08:50.506 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/index.html - - - 200 - text/html;charset=utf-8 235.7039ms
+2023-09-08 11:08:50.515 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 11.5221ms
+2023-09-08 11:08:50.523 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_vs/browserLink - -
+2023-09-08 11:08:50.570 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 46.9268ms
+2023-09-08 11:08:50.631 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - -
+2023-09-08 11:08:50.759 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 127.8609ms
+2023-09-08 11:08:58.300 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v2/swagger.json - -
+2023-09-08 11:08:58.306 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v2/swagger.json - - - 200 - application/json;charset=utf-8 5.8160ms
+2023-09-08 11:09:09.308 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v2.1/swagger.json - -
+2023-09-08 11:09:09.310 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v2.1/swagger.json - - - 200 - application/json;charset=utf-8 2.1755ms
+2023-09-08 11:09:24.954 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/AbstractFactoryPattern?id=1&hours=2 - -
+2023-09-08 11:09:24.964 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.AbstractFactoryPatternController.GetEmployeeOvertimePay (DesignPatternPracticals)'
+2023-09-08 11:09:24.976 +05:30 [INF] Route matched with {action = "GetEmployeeOvertimePay", controller = "AbstractFactoryPattern"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetEmployeeOvertimePay(Int32, Int32) on controller DesignPatternPracticals.Controllers.AbstractFactoryPatternController (DesignPatternPracticals).
+2023-09-08 11:09:25.164 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`3[[System.Object, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2023-09-08 11:09:25.178 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.AbstractFactoryPatternController.GetEmployeeOvertimePay (DesignPatternPracticals) in 194.7984ms
+2023-09-08 11:09:25.182 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.AbstractFactoryPatternController.GetEmployeeOvertimePay (DesignPatternPracticals)'
+2023-09-08 11:09:25.183 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/AbstractFactoryPattern?id=1&hours=2 - - - 200 - application/json;+charset=utf-8;+x-api-version=2.1 229.1721ms
+2023-09-08 11:11:08.320 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/AbstractFactoryPattern?id=1&hours=4 - -
+2023-09-08 11:11:08.329 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.AbstractFactoryPatternController.GetEmployeeOvertimePay (DesignPatternPracticals)'
+2023-09-08 11:11:08.331 +05:30 [INF] Route matched with {action = "GetEmployeeOvertimePay", controller = "AbstractFactoryPattern"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetEmployeeOvertimePay(Int32, Int32) on controller DesignPatternPracticals.Controllers.AbstractFactoryPatternController (DesignPatternPracticals).
+2023-09-08 11:11:08.339 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`3[[System.Object, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2023-09-08 11:11:08.340 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.AbstractFactoryPatternController.GetEmployeeOvertimePay (DesignPatternPracticals) in 8.1672ms
+2023-09-08 11:11:08.342 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.AbstractFactoryPatternController.GetEmployeeOvertimePay (DesignPatternPracticals)'
+2023-09-08 11:11:08.343 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/AbstractFactoryPattern?id=1&hours=4 - - - 200 - application/json;+charset=utf-8;+x-api-version=2.1 25.3564ms
+2023-09-08 11:11:23.618 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/AbstractFactoryPattern?id=1&hours=5 - -
+2023-09-08 11:11:23.620 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.AbstractFactoryPatternController.GetEmployeeOvertimePay (DesignPatternPracticals)'
+2023-09-08 11:11:23.622 +05:30 [INF] Route matched with {action = "GetEmployeeOvertimePay", controller = "AbstractFactoryPattern"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetEmployeeOvertimePay(Int32, Int32) on controller DesignPatternPracticals.Controllers.AbstractFactoryPatternController (DesignPatternPracticals).
+2023-09-08 11:11:23.625 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`3[[System.Object, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2023-09-08 11:11:23.626 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.AbstractFactoryPatternController.GetEmployeeOvertimePay (DesignPatternPracticals) in 2.7255ms
+2023-09-08 11:11:23.629 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.AbstractFactoryPatternController.GetEmployeeOvertimePay (DesignPatternPracticals)'
+2023-09-08 11:11:23.630 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/AbstractFactoryPattern?id=1&hours=5 - - - 200 - application/json;+charset=utf-8;+x-api-version=2.1 11.8038ms
+2023-09-08 11:13:14.461 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v2/swagger.json - -
+2023-09-08 11:13:14.467 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v2/swagger.json - - - 200 - application/json;charset=utf-8 6.8973ms
+2023-09-08 11:13:33.045 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/FactoryPattern?id=1&hours=2 - -
+2023-09-08 11:13:33.046 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.FactoryPatternController.GetOvertimePayment (DesignPatternPracticals)'
+2023-09-08 11:13:33.050 +05:30 [INF] Route matched with {action = "GetOvertimePayment", controller = "FactoryPattern"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetOvertimePayment(Int32, Int32) on controller DesignPatternPracticals.Controllers.FactoryPatternController (DesignPatternPracticals).
+2023-09-08 11:13:49.856 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.FactoryPatternController.GetOvertimePayment (DesignPatternPracticals) in 16803.2656ms
+2023-09-08 11:13:49.892 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.FactoryPatternController.GetOvertimePayment (DesignPatternPracticals)'
+2023-09-08 11:13:49.968 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (2): The system cannot find the file specified.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at DesignPatternPracticals.Controllers.FactoryPatternController.GetOvertimePayment(Int32 id, Int32 hours) in C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals\Controllers\FactoryPatternController.cs:line 22
+   at lambda_method8(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:2,State:0,Class:20
+2023-09-08 11:13:50.007 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/FactoryPattern?id=1&hours=2 - - - 500 - text/plain;+charset=utf-8;+x-api-version=2 16962.4823ms
+2023-09-08 11:15:09.661 +05:30 [INF] User profile is available. Using 'C:\Users\jil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-09-08 11:15:09.829 +05:30 [INF] Now listening on: https://localhost:7184
+2023-09-08 11:15:09.831 +05:30 [INF] Now listening on: http://localhost:5102
+2023-09-08 11:15:09.832 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-08 11:15:09.833 +05:30 [INF] Hosting environment: Development
+2023-09-08 11:15:09.833 +05:30 [INF] Content root path: C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals
+2023-09-08 11:15:10.394 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/index.html - -
+2023-09-08 11:15:10.622 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/index.html - - - 200 - text/html;charset=utf-8 230.5537ms
+2023-09-08 11:15:10.639 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_vs/browserLink - -
+2023-09-08 11:15:10.639 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - -
+2023-09-08 11:15:10.652 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 13.7793ms
+2023-09-08 11:15:10.685 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 46.5713ms
+2023-09-08 11:15:10.755 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - -
+2023-09-08 11:15:10.887 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 131.5484ms
+2023-09-08 11:15:16.616 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v2/swagger.json - -
+2023-09-08 11:15:16.620 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v2/swagger.json - - - 200 - application/json;charset=utf-8 4.0599ms
+2023-09-08 11:15:30.738 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/FactoryPattern?id=1&hours=2 - -
+2023-09-08 11:15:30.751 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.FactoryPatternController.GetOvertimePayment (DesignPatternPracticals)'
+2023-09-08 11:15:30.766 +05:30 [INF] Route matched with {action = "GetOvertimePayment", controller = "FactoryPattern"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetOvertimePayment(Int32, Int32) on controller DesignPatternPracticals.Controllers.FactoryPatternController (DesignPatternPracticals).
+2023-09-08 11:15:30.898 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType2`2[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Decimal, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2023-09-08 11:15:30.914 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.FactoryPatternController.GetOvertimePayment (DesignPatternPracticals) in 142.9641ms
+2023-09-08 11:15:30.918 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.FactoryPatternController.GetOvertimePayment (DesignPatternPracticals)'
+2023-09-08 11:15:30.919 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/FactoryPattern?id=1&hours=2 - - - 200 - application/json;+charset=utf-8;+x-api-version=2 180.4006ms
+2023-09-08 11:30:37.238 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v3/swagger.json - -
+2023-09-08 11:30:37.253 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v3/swagger.json - - - 200 - application/json;charset=utf-8 18.0804ms
+2023-09-08 11:46:39.126 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7184/api/RepositoryPatternPractical/Create application/json;+x-api-version=3.0 151
+2023-09-08 11:46:39.176 +05:30 [INF] The requested API version is ambiguous. Requested API Versions: ["3","3.0"]
+2023-09-08 11:46:39.183 +05:30 [INF] Executing endpoint 'Microsoft.AspNetCore.Http.Endpoint'
+2023-09-08 11:46:39.190 +05:30 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType0`1[[<>f__AnonymousType1`3[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[<>f__AnonymousType2`1[[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Microsoft.AspNetCore.Mvc.Versioning, Version=5.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]], Microsoft.AspNetCore.Mvc.Versioning, Version=5.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]'.
+2023-09-08 11:46:39.196 +05:30 [INF] Executed endpoint 'Microsoft.AspNetCore.Http.Endpoint'
+2023-09-08 11:46:39.197 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7184/api/RepositoryPatternPractical/Create application/json;+x-api-version=3.0 151 - 400 - application/json;+charset=utf-8 71.3992ms
+2023-09-08 11:46:59.046 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7184/api/RepositoryPatternPractical/Create application/json;+x-api-version=3.0 151
+2023-09-08 11:46:59.049 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals)'
+2023-09-08 11:46:59.056 +05:30 [INF] Route matched with {action = "Create", controller = "RepositoryPatternPractical"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create(RepositoryPattern.Models.EmployeeR) on controller DesignPatternPracticals.Controllers.RepositoryPatternPractical (DesignPatternPracticals).
+2023-09-08 11:46:59.186 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2023-09-08 11:46:59.190 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals) in 130.7494ms
+2023-09-08 11:46:59.192 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals)'
+2023-09-08 11:46:59.193 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7184/api/RepositoryPatternPractical/Create application/json;+x-api-version=3.0 151 - 400 - application/problem+json;+charset=utf-8 146.9509ms
+2023-09-08 11:47:41.047 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7184/api/RepositoryPatternPractical/Create application/json;+x-api-version=3.0 151
+2023-09-08 11:47:41.049 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals)'
+2023-09-08 11:47:41.051 +05:30 [INF] Route matched with {action = "Create", controller = "RepositoryPatternPractical"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create(RepositoryPattern.Models.EmployeeR) on controller DesignPatternPracticals.Controllers.RepositoryPatternPractical (DesignPatternPracticals).
+2023-09-08 11:47:41.144 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2023-09-08 11:47:41.146 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals) in 91.4068ms
+2023-09-08 11:47:41.147 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals)'
+2023-09-08 11:47:41.148 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7184/api/RepositoryPatternPractical/Create application/json;+x-api-version=3.0 151 - 400 - application/problem+json;+charset=utf-8 101.6595ms
+2023-09-08 11:47:45.943 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7184/api/RepositoryPatternPractical/Create application/json;+x-api-version=3.0 151
+2023-09-08 11:47:45.945 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals)'
+2023-09-08 11:47:45.946 +05:30 [INF] Route matched with {action = "Create", controller = "RepositoryPatternPractical"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create(RepositoryPattern.Models.EmployeeR) on controller DesignPatternPracticals.Controllers.RepositoryPatternPractical (DesignPatternPracticals).
+2023-09-08 11:47:46.035 +05:30 [INF] Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'.
+2023-09-08 11:47:46.037 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals) in 88.1287ms
+2023-09-08 11:47:46.039 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals)'
+2023-09-08 11:47:46.040 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7184/api/RepositoryPatternPractical/Create application/json;+x-api-version=3.0 151 - 400 - application/problem+json;+charset=utf-8 96.6981ms
+2023-09-08 11:48:07.309 +05:30 [INF] User profile is available. Using 'C:\Users\jil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-09-08 11:48:07.528 +05:30 [INF] Now listening on: https://localhost:7184
+2023-09-08 11:48:07.531 +05:30 [INF] Now listening on: http://localhost:5102
+2023-09-08 11:48:07.533 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-08 11:48:07.534 +05:30 [INF] Hosting environment: Development
+2023-09-08 11:48:07.535 +05:30 [INF] Content root path: C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals
+2023-09-08 11:48:08.076 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/index.html - -
+2023-09-08 11:48:08.392 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/index.html - - - 200 - text/html;charset=utf-8 319.2867ms
+2023-09-08 11:48:08.415 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_vs/browserLink - -
+2023-09-08 11:48:08.415 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - -
+2023-09-08 11:48:08.444 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 29.3167ms
+2023-09-08 11:48:08.491 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 76.4025ms
+2023-09-08 11:48:08.573 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - -
+2023-09-08 11:48:08.779 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 205.6239ms
+2023-09-08 11:48:32.794 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v3/swagger.json - -
+2023-09-08 11:48:32.805 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v3/swagger.json - - - 200 - application/json;charset=utf-8 12.2180ms
+2023-09-08 11:49:16.113 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7184/api/RepositoryPatternPractical/Create application/json;+x-api-version=3.0 151
+2023-09-08 11:49:16.137 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals)'
+2023-09-08 11:49:16.153 +05:30 [INF] Route matched with {action = "Create", controller = "RepositoryPatternPractical"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create(RepositoryPattern.Models.EmployeeR) on controller DesignPatternPracticals.Controllers.RepositoryPatternPractical (DesignPatternPracticals).
+2023-09-08 11:49:33.147 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals) in 16987.2463ms
+2023-09-08 11:49:33.202 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals)'
+2023-09-08 11:49:33.292 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (2): The system cannot find the file specified.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at RepositoryPattern.Repository.EmployeeRepository.CreateEmployee(EmployeeR employee) in C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\Repository\EmployeeRepository.cs:line 18
+   at DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create(EmployeeR employee) in C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals\Controllers\RepositoryPatternPractical.cs:line 35
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:2,State:0,Class:20
+2023-09-08 11:49:33.336 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7184/api/RepositoryPatternPractical/Create application/json;+x-api-version=3.0 151 - 500 - text/plain;+charset=utf-8;+x-api-version=3.0 17223.4404ms
+2023-09-08 11:50:44.263 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7184/api/RepositoryPatternPractical/Create application/json;+x-api-version=3.0 151
+2023-09-08 11:50:44.279 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals)'
+2023-09-08 11:50:44.282 +05:30 [INF] Route matched with {action = "Create", controller = "RepositoryPatternPractical"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create(RepositoryPattern.Models.EmployeeR) on controller DesignPatternPracticals.Controllers.RepositoryPatternPractical (DesignPatternPracticals).
+2023-09-08 11:51:21.480 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals) in 37196.269ms
+2023-09-08 11:51:21.577 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals)'
+2023-09-08 11:51:21.828 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (2): The system cannot find the file specified.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at RepositoryPattern.Repository.EmployeeRepository.CreateEmployee(EmployeeR employee) in C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\Repository\EmployeeRepository.cs:line 18
+   at DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create(EmployeeR employee) in C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals\Controllers\RepositoryPatternPractical.cs:line 35
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:2,State:0,Class:20
+2023-09-08 11:51:21.938 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7184/api/RepositoryPatternPractical/Create application/json;+x-api-version=3.0 151 - 500 - text/plain;+charset=utf-8;+x-api-version=3.0 37675.5395ms
+2023-09-08 11:51:49.714 +05:30 [INF] User profile is available. Using 'C:\Users\jil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-09-08 11:51:49.930 +05:30 [INF] Now listening on: https://localhost:7184
+2023-09-08 11:51:49.931 +05:30 [INF] Now listening on: http://localhost:5102
+2023-09-08 11:51:49.933 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-08 11:51:49.934 +05:30 [INF] Hosting environment: Development
+2023-09-08 11:51:49.934 +05:30 [INF] Content root path: C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals
+2023-09-08 11:51:50.657 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/index.html - -
+2023-09-08 11:51:50.925 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/index.html - - - 200 - text/html;charset=utf-8 269.3240ms
+2023-09-08 11:51:50.943 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_vs/browserLink - -
+2023-09-08 11:51:50.943 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - -
+2023-09-08 11:51:50.963 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 19.8315ms
+2023-09-08 11:51:51.000 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 57.3732ms
+2023-09-08 11:51:51.065 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - -
+2023-09-08 11:51:51.235 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 170.9338ms
+2023-09-08 11:51:55.944 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v3/swagger.json - -
+2023-09-08 11:51:55.950 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v3/swagger.json - - - 200 - application/json;charset=utf-8 5.8653ms
+2023-09-08 11:52:24.259 +05:30 [INF] Request starting HTTP/2 PUT https://localhost:7184/api/RepositoryPatternPractical/Edit?id=2 application/json;+x-api-version=3.0 151
+2023-09-08 11:52:24.289 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Edit (DesignPatternPracticals)'
+2023-09-08 11:52:24.305 +05:30 [INF] Route matched with {action = "Edit", controller = "RepositoryPatternPractical"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Edit(Int32, RepositoryPattern.Models.EmployeeR) on controller DesignPatternPracticals.Controllers.RepositoryPatternPractical (DesignPatternPracticals).
+2023-09-08 11:52:41.256 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.RepositoryPatternPractical.Edit (DesignPatternPracticals) in 16945.7728ms
+2023-09-08 11:52:41.305 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Edit (DesignPatternPracticals)'
+2023-09-08 11:52:41.402 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (2): The system cannot find the file specified.
+   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at RepositoryPattern.Repository.EmployeeRepository.EditEmployee(Int32 id, EmployeeR employee) in C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\Repository\EmployeeRepository.cs:line 73
+   at DesignPatternPracticals.Controllers.RepositoryPatternPractical.Edit(Int32 id, EmployeeR employee) in C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals\Controllers\RepositoryPatternPractical.cs:line 53
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:2,State:0,Class:20
+2023-09-08 11:52:41.446 +05:30 [INF] Request finished HTTP/2 PUT https://localhost:7184/api/RepositoryPatternPractical/Edit?id=2 application/json;+x-api-version=3.0 151 - 500 - text/plain;+charset=utf-8;+x-api-version=3.0 17186.5090ms
+2023-09-08 11:52:46.772 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7184/api/RepositoryPatternPractical/Create application/json;+x-api-version=3.0 151
+2023-09-08 11:52:46.790 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals)'
+2023-09-08 11:52:46.794 +05:30 [INF] Route matched with {action = "Create", controller = "RepositoryPatternPractical"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create(RepositoryPattern.Models.EmployeeR) on controller DesignPatternPracticals.Controllers.RepositoryPatternPractical (DesignPatternPracticals).
+2023-09-08 11:56:26.737 +05:30 [INF] User profile is available. Using 'C:\Users\jil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-09-08 11:56:26.945 +05:30 [INF] Now listening on: https://localhost:7184
+2023-09-08 11:56:26.946 +05:30 [INF] Now listening on: http://localhost:5102
+2023-09-08 11:56:26.950 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-08 11:56:26.951 +05:30 [INF] Hosting environment: Development
+2023-09-08 11:56:26.952 +05:30 [INF] Content root path: C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals
+2023-09-08 11:56:27.492 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/index.html - -
+2023-09-08 11:56:27.780 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/index.html - - - 200 - text/html;charset=utf-8 288.7437ms
+2023-09-08 11:56:27.796 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_vs/browserLink - -
+2023-09-08 11:56:27.796 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - -
+2023-09-08 11:56:27.821 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 24.7652ms
+2023-09-08 11:56:27.864 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 68.1330ms
+2023-09-08 11:56:27.928 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - -
+2023-09-08 11:56:28.095 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 166.8562ms
+2023-09-08 11:56:32.992 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v3/swagger.json - -
+2023-09-08 11:56:32.997 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v3/swagger.json - - - 200 - application/json;charset=utf-8 5.2860ms
+2023-09-08 11:57:19.720 +05:30 [INF] Request starting HTTP/2 POST https://localhost:7184/api/RepositoryPatternPractical/Create application/json;+x-api-version=3.0 151
+2023-09-08 11:57:19.738 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals)'
+2023-09-08 11:57:19.753 +05:30 [INF] Route matched with {action = "Create", controller = "RepositoryPatternPractical"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create(RepositoryPattern.Models.EmployeeR) on controller DesignPatternPracticals.Controllers.RepositoryPatternPractical (DesignPatternPracticals).
+2023-09-08 11:57:27.719 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2023-09-08 11:57:27.735 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals) in 7967.4552ms
+2023-09-08 11:57:27.738 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Create (DesignPatternPracticals)'
+2023-09-08 11:57:27.740 +05:30 [INF] Request finished HTTP/2 POST https://localhost:7184/api/RepositoryPatternPractical/Create application/json;+x-api-version=3.0 151 - 200 - text/plain;+charset=utf-8;+x-api-version=3.0 8020.0693ms
+2023-09-08 11:57:57.289 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/RepositoryPatternPractical/Get?id=3 - -
+2023-09-08 11:57:57.301 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals)'
+2023-09-08 11:57:57.305 +05:30 [INF] Route matched with {action = "Get", controller = "RepositoryPatternPractical"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get(System.Nullable`1[System.Int32]) on controller DesignPatternPracticals.Controllers.RepositoryPatternPractical (DesignPatternPracticals).
+2023-09-08 11:57:57.470 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals) in 162.1335ms
+2023-09-08 11:57:57.516 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals)'
+2023-09-08 11:57:57.618 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidCastException: Unable to cast object of type 'System.Int32' to type 'System.Decimal'.
+   at RepositoryPattern.Repository.EmployeeRepository.GetAllEmployees(Nullable`1 id) in C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\Repository\EmployeeRepository.cs:line 123
+   at DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get(Nullable`1 id) in C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals\Controllers\RepositoryPatternPractical.cs:line 23
+   at lambda_method5(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-09-08 11:57:57.651 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/RepositoryPatternPractical/Get?id=3 - - - 500 - text/plain;+charset=utf-8;+x-api-version=3.0 361.5389ms
+2023-09-08 11:59:16.588 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/RepositoryPatternPractical/Get?id=3 - -
+2023-09-08 11:59:16.600 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals)'
+2023-09-08 11:59:16.602 +05:30 [INF] Route matched with {action = "Get", controller = "RepositoryPatternPractical"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get(System.Nullable`1[System.Int32]) on controller DesignPatternPracticals.Controllers.RepositoryPatternPractical (DesignPatternPracticals).
+2023-09-08 11:59:16.746 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals) in 141.6129ms
+2023-09-08 11:59:16.790 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals)'
+2023-09-08 11:59:16.890 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidCastException: Unable to cast object of type 'System.Int32' to type 'System.Decimal'.
+   at RepositoryPattern.Repository.EmployeeRepository.GetAllEmployees(Nullable`1 id) in C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\Repository\EmployeeRepository.cs:line 123
+   at DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get(Nullable`1 id) in C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals\Controllers\RepositoryPatternPractical.cs:line 23
+   at lambda_method5(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-09-08 11:59:16.903 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/RepositoryPatternPractical/Get?id=3 - - - 500 - text/plain;+charset=utf-8;+x-api-version=3.0 315.4896ms
+2023-09-08 11:59:46.402 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/RepositoryPatternPractical/Get?id=3 - -
+2023-09-08 11:59:46.412 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals)'
+2023-09-08 11:59:46.414 +05:30 [INF] Route matched with {action = "Get", controller = "RepositoryPatternPractical"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get(System.Nullable`1[System.Int32]) on controller DesignPatternPracticals.Controllers.RepositoryPatternPractical (DesignPatternPracticals).
+2023-09-08 11:59:46.549 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals) in 133.5441ms
+2023-09-08 11:59:46.596 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals)'
+2023-09-08 11:59:46.733 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidCastException: Unable to cast object of type 'System.Int32' to type 'System.Decimal'.
+   at RepositoryPattern.Repository.EmployeeRepository.GetAllEmployees(Nullable`1 id) in C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\Repository\EmployeeRepository.cs:line 123
+   at DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get(Nullable`1 id) in C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals\Controllers\RepositoryPatternPractical.cs:line 23
+   at lambda_method5(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2023-09-08 11:59:46.743 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/RepositoryPatternPractical/Get?id=3 - - - 500 - text/plain;+charset=utf-8;+x-api-version=3.0 341.5481ms
+2023-09-08 12:00:08.618 +05:30 [INF] User profile is available. Using 'C:\Users\jil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-09-08 12:00:08.810 +05:30 [INF] Now listening on: https://localhost:7184
+2023-09-08 12:00:08.811 +05:30 [INF] Now listening on: http://localhost:5102
+2023-09-08 12:00:08.813 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-08 12:00:08.814 +05:30 [INF] Hosting environment: Development
+2023-09-08 12:00:08.814 +05:30 [INF] Content root path: C:\Users\jil\Downloads\DesignPatterns-master\DesignPatternPracticals
+2023-09-08 12:00:09.400 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/index.html - -
+2023-09-08 12:00:09.663 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/index.html - - - 200 - text/html;charset=utf-8 263.9724ms
+2023-09-08 12:00:09.679 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_vs/browserLink - -
+2023-09-08 12:00:09.679 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - -
+2023-09-08 12:00:09.693 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_framework/aspnetcore-browser-refresh.js - - - 200 12016 application/javascript;+charset=utf-8 13.9459ms
+2023-09-08 12:00:09.729 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 50.0050ms
+2023-09-08 12:00:09.795 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - -
+2023-09-08 12:00:09.945 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 149.1756ms
+2023-09-08 12:00:14.566 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/swagger/v3/swagger.json - -
+2023-09-08 12:00:14.573 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/swagger/v3/swagger.json - - - 200 - application/json;charset=utf-8 6.9829ms
+2023-09-08 12:00:31.170 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/RepositoryPatternPractical/Get?id=3 - -
+2023-09-08 12:00:31.179 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals)'
+2023-09-08 12:00:31.194 +05:30 [INF] Route matched with {action = "Get", controller = "RepositoryPatternPractical"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get(System.Nullable`1[System.Int32]) on controller DesignPatternPracticals.Controllers.RepositoryPatternPractical (DesignPatternPracticals).
+2023-09-08 12:00:36.518 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[RepositoryPattern.Models.EmployeeR, RepositoryPattern, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-09-08 12:00:36.540 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals) in 5339.3147ms
+2023-09-08 12:00:36.543 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals)'
+2023-09-08 12:00:36.545 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/RepositoryPatternPractical/Get?id=3 - - - 200 - application/json;+charset=utf-8;+x-api-version=3.0 5375.1614ms
+2023-09-08 12:00:51.196 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/RepositoryPatternPractical/Get?id=37 - -
+2023-09-08 12:00:51.202 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals)'
+2023-09-08 12:00:51.204 +05:30 [INF] Route matched with {action = "Get", controller = "RepositoryPatternPractical"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get(System.Nullable`1[System.Int32]) on controller DesignPatternPracticals.Controllers.RepositoryPatternPractical (DesignPatternPracticals).
+2023-09-08 12:00:56.805 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[RepositoryPattern.Models.EmployeeR, RepositoryPattern, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-09-08 12:00:56.808 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals) in 5601.4384ms
+2023-09-08 12:00:56.809 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals)'
+2023-09-08 12:00:56.810 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/RepositoryPatternPractical/Get?id=37 - - - 200 - application/json;+charset=utf-8;+x-api-version=3.0 5613.7199ms
+2023-09-08 12:01:13.019 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7184/api/RepositoryPatternPractical/Get?id=0 - -
+2023-09-08 12:01:13.021 +05:30 [INF] Executing endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals)'
+2023-09-08 12:01:13.023 +05:30 [INF] Route matched with {action = "Get", controller = "RepositoryPatternPractical"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get(System.Nullable`1[System.Int32]) on controller DesignPatternPracticals.Controllers.RepositoryPatternPractical (DesignPatternPracticals).
+2023-09-08 12:01:15.858 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[RepositoryPattern.Models.EmployeeR, RepositoryPattern, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-09-08 12:01:15.861 +05:30 [INF] Executed action DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals) in 2835.0077ms
+2023-09-08 12:01:15.862 +05:30 [INF] Executed endpoint 'DesignPatternPracticals.Controllers.RepositoryPatternPractical.Get (DesignPatternPracticals)'
+2023-09-08 12:01:15.864 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7184/api/RepositoryPatternPractical/Get?id=0 - - - 200 - application/json;+charset=utf-8;+x-api-version=3.0 2845.2461ms
