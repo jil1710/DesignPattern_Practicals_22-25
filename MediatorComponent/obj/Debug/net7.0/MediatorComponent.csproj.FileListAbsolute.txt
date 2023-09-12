@@ -1,0 +1,24 @@
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\MediatorComponent\bin\Debug\net7.0\MediatorComponent.deps.json
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\MediatorComponent\bin\Debug\net7.0\MediatorComponent.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\MediatorComponent\bin\Debug\net7.0\MediatorComponent.pdb
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\MediatorComponent\obj\Debug\net7.0\MediatorComponent.csproj.AssemblyReference.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\MediatorComponent\obj\Debug\net7.0\MediatorComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\MediatorComponent\obj\Debug\net7.0\MediatorComponent.AssemblyInfoInputs.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\MediatorComponent\obj\Debug\net7.0\MediatorComponent.AssemblyInfo.cs
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\MediatorComponent\obj\Debug\net7.0\MediatorComponent.csproj.CoreCompileInputs.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\MediatorComponent\obj\Debug\net7.0\MediatorComponent.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\MediatorComponent\obj\Debug\net7.0\refint\MediatorComponent.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\MediatorComponent\obj\Debug\net7.0\MediatorComponent.pdb
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\MediatorComponent\obj\Debug\net7.0\ref\MediatorComponent.dll
+C:\Users\jil\Downloads\DesignPatterns-master\MediatorComponent\bin\Debug\net7.0\MediatorComponent.deps.json
+C:\Users\jil\Downloads\DesignPatterns-master\MediatorComponent\bin\Debug\net7.0\MediatorComponent.dll
+C:\Users\jil\Downloads\DesignPatterns-master\MediatorComponent\bin\Debug\net7.0\MediatorComponent.pdb
+C:\Users\jil\Downloads\DesignPatterns-master\MediatorComponent\obj\Debug\net7.0\MediatorComponent.csproj.AssemblyReference.cache
+C:\Users\jil\Downloads\DesignPatterns-master\MediatorComponent\obj\Debug\net7.0\MediatorComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jil\Downloads\DesignPatterns-master\MediatorComponent\obj\Debug\net7.0\MediatorComponent.AssemblyInfoInputs.cache
+C:\Users\jil\Downloads\DesignPatterns-master\MediatorComponent\obj\Debug\net7.0\MediatorComponent.AssemblyInfo.cs
+C:\Users\jil\Downloads\DesignPatterns-master\MediatorComponent\obj\Debug\net7.0\MediatorComponent.csproj.CoreCompileInputs.cache
+C:\Users\jil\Downloads\DesignPatterns-master\MediatorComponent\obj\Debug\net7.0\MediatorComponent.dll
+C:\Users\jil\Downloads\DesignPatterns-master\MediatorComponent\obj\Debug\net7.0\refint\MediatorComponent.dll
+C:\Users\jil\Downloads\DesignPatterns-master\MediatorComponent\obj\Debug\net7.0\MediatorComponent.pdb
+C:\Users\jil\Downloads\DesignPatterns-master\MediatorComponent\obj\Debug\net7.0\ref\MediatorComponent.dll
