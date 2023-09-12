@@ -1,6 +1,7 @@
 ﻿using CQRSPattern.DataConnection;
 using CQRSPattern.Interfaces;
 using CQRSPattern.Models;
+using Microsoft.Extensions.Configuration;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -13,7 +14,14 @@ namespace CQRSPattern.Repository
 {
     public class EmployeeQueryRepository : IEmployeeQueryRepository
     {
-        private readonly string conString = DBCS.ConnectionString();
+        private readonly string conString = null;
+        private readonly IConfiguration configuration;
+
+        public EmployeeQueryRepository(IConfiguration configuration)
+        {
+            this.configuration = configuration;
+            conString = configuration.GetConnectionString("Default")!;
+        }
         public List<EmployeeQueryModel> GetAll()
         {
             using (var con = new SqlConnection(conString))

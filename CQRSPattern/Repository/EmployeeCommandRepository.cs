@@ -8,12 +8,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using CQRSPattern.DataConnection;
+using Microsoft.Extensions.Configuration;
 
 namespace CQRSPattern.Repository
 {
     public class EmployeeCommandRepository : IEmployeeCommandRepository
     {
-        private readonly string conString = DBCS.ConnectionString();
+
+        private readonly string conString = null;
+        private readonly IConfiguration configuration;
+
+        public EmployeeCommandRepository(IConfiguration configuration)
+        {
+            this.configuration = configuration;
+            conString = configuration.GetConnectionString("Default")!;
+        }
         public bool CreateEmployee(EmployeeCommandModel employeeCommand)
         {
             if (employeeCommand != null)

@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "SnINgc11w1mvHhu/ghR/QW9Ab/1EdkpdRXIoePwrhc0k7yd22MVNCSaFTUt0YNtra2+wZbXvTHVRjXVYikaMGA==",
+  "dgSpecHash": "/016h/pYmbBH3SkRFGL/DbCkd3lDtbGJir96tl9WYcH0zrDY/mcWd03ee0RLQ3z3if0jEvGuo9CS11i2V31p/Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\jil\\Downloads\\DesignPatterns-master\\RepositoryPattern\\RepositoryPattern.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jil\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\jil\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\jil\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\jil\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\jil\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\jil\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",

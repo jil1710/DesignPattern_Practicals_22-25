@@ -11,11 +11,17 @@ namespace DesignPatternPracticals.Controllers
     [ApiVersion("2.0")]
     public class FactoryPatternController : Controller
     {
+        private readonly IConfiguration configuration;
+
+        public FactoryPatternController(IConfiguration configuration)
+        {
+            this.configuration = configuration;
+        }
         [HttpGet]
         [MapToApiVersion("2.0")]
         public IActionResult GetOvertimePayment(int id, int hours)
         {
-            string conString = DBCS.ConnectionString();
+            string conString = configuration.GetConnectionString("Default")!;
 
             string dept = "";
             using (var con = new SqlConnection(conString))

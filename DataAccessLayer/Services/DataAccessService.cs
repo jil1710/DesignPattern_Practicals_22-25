@@ -3,13 +3,21 @@ using DataAccessLayer.Interfaces;
 using DataAccessLayer.Models;
 using DataAccessLayer.Singleton;
 using System.Data;
+using Microsoft.Extensions.Configuration;
 using System.Data.SqlClient;
 
 namespace DataAccessLayer.Services
 {
     public class DataAccessService : IDataAccessService
     {
-        private readonly string conString = DBCS.ConnectionString();
+        private readonly string conString = null;
+        private readonly IConfiguration configuration;
+
+        public DataAccessService(IConfiguration configuration)
+        {
+            this.configuration = configuration;
+            conString = configuration.GetConnectionString("Default")!;
+        }
 
         private Logger _logger = SingletonClass.GetLoggerInstance();
 

@@ -1,5 +1,6 @@
 ﻿using MediatorComponent.DataConnection;
 using MediatorComponent.Models;
+using Microsoft.Extensions.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 
@@ -7,7 +8,14 @@ namespace MediatorComponent.Repository;
 
 public class EmployeeRepositoryforMediator : IEmployeeRepositoryforMediator
 {
-    private readonly string conString = DBCS.ConnectionString();
+    private readonly string conString = null;
+    private readonly IConfiguration configuration;
+
+    public EmployeeRepositoryforMediator(IConfiguration configuration)
+    {
+        this.configuration = configuration;
+        conString = configuration.GetConnectionString("Default")!;
+    }
     
     public async Task<Employee> GetById(int id)
     {

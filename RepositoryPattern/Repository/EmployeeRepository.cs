@@ -1,4 +1,5 @@
-﻿using RepositoryPattern.DataConnection;
+﻿using Microsoft.Extensions.Configuration;
+using RepositoryPattern.DataConnection;
 using RepositoryPattern.Interfaces;
 using RepositoryPattern.Models;
 using System.Data;
@@ -8,7 +9,14 @@ namespace RepositoryPattern.Repository
 {
     public class EmployeeRepository : IEmployeeRepository
     {
-        private readonly string conString = DBCS.ConnectionString();
+        private readonly string conString =null;
+        private readonly IConfiguration configuration;
+
+        public EmployeeRepository(IConfiguration configuration)
+        {
+            this.configuration = configuration;
+            conString = configuration.GetConnectionString("Default")!;
+        }
         public bool CreateEmployee(EmployeeR employee)
         {
             if (employee != null)

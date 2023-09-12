@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CNnSr0MHwU5q6tAQVK5aZHkhde8rwKXNr2GH0G19yP+M3DaxyTVSVGwPUnCOCaIIX3L6sQ3IA/SrBxnq6BoXow==",
+  "dgSpecHash": "5NLduG/sNB/c9Xb+Rd1SZJ9OVHS0/TzRuYVcDk6yaGxYQ2Nu0jA0t7Y5GN+7HWyv6PhZ3ExjAy6iRFOHzKDNGA==",
   "success": true,
   "projectFilePath": "C:\\Users\\jil\\Downloads\\DesignPatterns-master\\DesignPatternPracticals\\DesignPatternPracticals.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\jil\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.1.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.1.0.nupkg.sha512",
     "C:\\Users\\jil\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\jil\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\jil\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\jil\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\jil\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
     "C:\\Users\\jil\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
