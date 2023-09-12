@@ -1,0 +1,36 @@
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\CQRSPattern\bin\Debug\net7.0\CQRSPattern.deps.json
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\CQRSPattern\bin\Debug\net7.0\CQRSPattern.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\CQRSPattern\bin\Debug\net7.0\CQRSPattern.pdb
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\CQRSPattern\obj\Debug\net7.0\CQRSPattern.csproj.AssemblyReference.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\CQRSPattern\obj\Debug\net7.0\CQRSPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\CQRSPattern\obj\Debug\net7.0\CQRSPattern.AssemblyInfoInputs.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\CQRSPattern\obj\Debug\net7.0\CQRSPattern.AssemblyInfo.cs
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\CQRSPattern\obj\Debug\net7.0\CQRSPattern.csproj.CoreCompileInputs.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\CQRSPattern\obj\Debug\net7.0\CQRSPattern.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\CQRSPattern\obj\Debug\net7.0\refint\CQRSPattern.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\CQRSPattern\obj\Debug\net7.0\CQRSPattern.pdb
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\CQRSPattern\obj\Debug\net7.0\ref\CQRSPattern.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\CQRSPattern\bin\Debug\net7.0\CQRSPattern.deps.json
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\CQRSPattern\bin\Debug\net7.0\CQRSPattern.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\CQRSPattern\bin\Debug\net7.0\CQRSPattern.pdb
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\CQRSPattern\obj\Debug\net7.0\CQRSPattern.csproj.AssemblyReference.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\CQRSPattern\obj\Debug\net7.0\CQRSPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\CQRSPattern\obj\Debug\net7.0\CQRSPattern.AssemblyInfoInputs.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\CQRSPattern\obj\Debug\net7.0\CQRSPattern.AssemblyInfo.cs
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\CQRSPattern\obj\Debug\net7.0\CQRSPattern.csproj.CoreCompileInputs.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\CQRSPattern\obj\Debug\net7.0\CQRSPattern.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\CQRSPattern\obj\Debug\net7.0\refint\CQRSPattern.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\CQRSPattern\obj\Debug\net7.0\CQRSPattern.pdb
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\CQRSPattern\obj\Debug\net7.0\ref\CQRSPattern.dll
+C:\Users\jil\Downloads\DesignPatterns-master\CQRSPattern\bin\Debug\net7.0\CQRSPattern.deps.json
+C:\Users\jil\Downloads\DesignPatterns-master\CQRSPattern\bin\Debug\net7.0\CQRSPattern.dll
+C:\Users\jil\Downloads\DesignPatterns-master\CQRSPattern\bin\Debug\net7.0\CQRSPattern.pdb
+C:\Users\jil\Downloads\DesignPatterns-master\CQRSPattern\obj\Debug\net7.0\CQRSPattern.csproj.AssemblyReference.cache
+C:\Users\jil\Downloads\DesignPatterns-master\CQRSPattern\obj\Debug\net7.0\CQRSPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jil\Downloads\DesignPatterns-master\CQRSPattern\obj\Debug\net7.0\CQRSPattern.AssemblyInfoInputs.cache
+C:\Users\jil\Downloads\DesignPatterns-master\CQRSPattern\obj\Debug\net7.0\CQRSPattern.AssemblyInfo.cs
+C:\Users\jil\Downloads\DesignPatterns-master\CQRSPattern\obj\Debug\net7.0\CQRSPattern.csproj.CoreCompileInputs.cache
+C:\Users\jil\Downloads\DesignPatterns-master\CQRSPattern\obj\Debug\net7.0\CQRSPattern.dll
+C:\Users\jil\Downloads\DesignPatterns-master\CQRSPattern\obj\Debug\net7.0\refint\CQRSPattern.dll
+C:\Users\jil\Downloads\DesignPatterns-master\CQRSPattern\obj\Debug\net7.0\CQRSPattern.pdb
+C:\Users\jil\Downloads\DesignPatterns-master\CQRSPattern\obj\Debug\net7.0\ref\CQRSPattern.dll
