@@ -1,0 +1,42 @@
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\RepositoryPattern\bin\Debug\net7.0\RepositoryPattern.deps.json
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\RepositoryPattern\bin\Debug\net7.0\RepositoryPattern.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\RepositoryPattern\bin\Debug\net7.0\RepositoryPattern.pdb
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.csproj.AssemblyReference.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.AssemblyInfoInputs.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.AssemblyInfo.cs
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\RepositoryPattern\obj\Debug\net7.0\refint\RepositoryPattern.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.pdb
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\RepositoryPattern\obj\Debug\net7.0\ref\RepositoryPattern.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\RepositoryPattern\bin\Debug\net7.0\RepositoryPattern.deps.json
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\RepositoryPattern\bin\Debug\net7.0\RepositoryPattern.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\RepositoryPattern\bin\Debug\net7.0\RepositoryPattern.pdb
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.csproj.AssemblyReference.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.AssemblyInfoInputs.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.AssemblyInfo.cs
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\RepositoryPattern\obj\Debug\net7.0\refint\RepositoryPattern.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.pdb
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\RepositoryPattern\obj\Debug\net7.0\ref\RepositoryPattern.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\RepositoryPattern\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\RepositoryPattern\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.csproj.CopyComplete
+C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\bin\Debug\net7.0\RepositoryPattern.deps.json
+C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\bin\Debug\net7.0\RepositoryPattern.dll
+C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\bin\Debug\net7.0\RepositoryPattern.pdb
+C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.csproj.AssemblyReference.cache
+C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.AssemblyInfoInputs.cache
+C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.AssemblyInfo.cs
+C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.csproj.CopyComplete
+C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.dll
+C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\obj\Debug\net7.0\refint\RepositoryPattern.dll
+C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\obj\Debug\net7.0\RepositoryPattern.pdb
+C:\Users\jil\Downloads\DesignPatterns-master\RepositoryPattern\obj\Debug\net7.0\ref\RepositoryPattern.dll
