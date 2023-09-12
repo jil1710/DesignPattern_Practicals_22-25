@@ -1,0 +1,36 @@
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.deps.json
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.pdb
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.AssemblyInfoInputs.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.AssemblyInfo.cs
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\BusinessAccessLayer\obj\Debug\net7.0\refint\BusinessAccessLayer.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.pdb
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\Practicals\BusinessAccessLayer\obj\Debug\net7.0\ref\BusinessAccessLayer.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.deps.json
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.pdb
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.AssemblyInfoInputs.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.AssemblyInfo.cs
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\BusinessAccessLayer\obj\Debug\net7.0\refint\BusinessAccessLayer.dll
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.pdb
+C:\Users\parthiv\Documents\Parthiv\ASP .NET Core\DesignPatterns\BusinessAccessLayer\obj\Debug\net7.0\ref\BusinessAccessLayer.dll
+C:\Users\jil\Downloads\DesignPatterns-master\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.deps.json
+C:\Users\jil\Downloads\DesignPatterns-master\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.dll
+C:\Users\jil\Downloads\DesignPatterns-master\BusinessAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.pdb
+C:\Users\jil\Downloads\DesignPatterns-master\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\jil\Downloads\DesignPatterns-master\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jil\Downloads\DesignPatterns-master\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.AssemblyInfoInputs.cache
+C:\Users\jil\Downloads\DesignPatterns-master\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.AssemblyInfo.cs
+C:\Users\jil\Downloads\DesignPatterns-master\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\jil\Downloads\DesignPatterns-master\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.dll
+C:\Users\jil\Downloads\DesignPatterns-master\BusinessAccessLayer\obj\Debug\net7.0\refint\BusinessAccessLayer.dll
+C:\Users\jil\Downloads\DesignPatterns-master\BusinessAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.pdb
+C:\Users\jil\Downloads\DesignPatterns-master\BusinessAccessLayer\obj\Debug\net7.0\ref\BusinessAccessLayer.dll
